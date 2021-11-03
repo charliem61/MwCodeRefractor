@@ -1,5 +1,8 @@
 # code-refractor
 
+Public Repo Link:
+```charliem61.github.io/code-refractor/```
+
 style.css  
 
 
@@ -11,7 +14,7 @@ is now a  header h1
 
 -change header div to header nav
 
--Remove all below
+-Remove all below s
 .benefit-lead and definition, 
 .benefit-brand and definition, 
 .benefit-cost and definition, 
