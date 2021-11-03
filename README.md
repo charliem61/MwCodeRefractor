@@ -69,7 +69,7 @@ add alt tags to -alt="lead generation"
                     -alt="cost-management"
                     
 
-![image] (https://github.com/charliem61/code-refractor/blob/main/Screen%20Shot%202021-11-02%20at%2011.35.11%20PM.png?raw=true)
+![image](https://github.com/charliem61/code-refractor/blob/main/Screen%20Shot%202021-11-02%20at%2011.35.11%20PM.png?raw=true)
 
                     
 deploy application:
