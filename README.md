@@ -5,7 +5,6 @@ Public Repo Link:
 
 style.css  
 
-
 -remove . in front of each header and ensure each header 
 is now a  header h1
 
@@ -35,34 +34,30 @@ and replace class name with .benefitsTag img
 definition
 
 -create new class over that last definition, and name
-searchEngineProduct img
+.searchEngineProduct
 
--delete remaining repeated unnecessary classes below
-.online-reputation-management img and definition
+-delete all below:
+.online-reputation-management
+.social-media-marketing
+
+-Delete .search-engine-optimization img but not the 
+definition.
+
+-Replace name with .searchEngineProduct img over definition 
+for above mentioned 
+
+-delete remaining repeated unnecessary classes below:
+.online-reputation-manageement img and definition
 .social-media-marketing img and definition
 .search-engine-optimization h2 and definition
-.online-reputation-managment h2 and defintion
+.online-reputation-management h2 and defintion
 .social-media-marketing h2 and defintion
 
 
-
-
-
-
-
-
-
-
-
-            
-            
+index.html
 
 -created class for searchEngineProduct
 
-
-
-
-index.html
 
 change font family to Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif 
 on every line applicable
@@ -73,6 +68,3 @@ add alt tags to -alt="lead generation"
                     
 
 ![image](https://github.com/charliem61/code-refractor/blob/main/Screen%20Shot%202021-11-02%20at%2011.35.11%20PM.png?raw=true)
-
-                    
-deploy application:
