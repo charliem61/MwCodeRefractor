@@ -101,6 +101,10 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+.benefitsTag h3 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 
 .searchEngineProduct{
     margin-bottom: 20px;
@@ -115,12 +119,7 @@ p {
     max-height: 200px;
 }
 
-.benefitsTag h3 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.footer {
+footer {
     padding: 30px;
     clear: both;
     text-align: center;

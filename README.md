@@ -34,8 +34,14 @@ definition
 -create new class over that last definition, and name
 searchEngineProduct img
 
--delete remaining repeated unnessacry classes below
-.online-reputation-management and definition
+-delete remaining repeated unnecessary classes below
+.online-reputation-management img and definition
+.social-media-marketing img and definition
+.search-engine-optimization h2 and definition
+.online-reputation-managment h2 and defintion
+.social-media-marketing h2 and defintion
+
+
 
 
 
