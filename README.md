@@ -56,15 +56,44 @@ for above mentioned
 
 index.html
 
--created class for searchEngineProduct
+-change title to MwCodeRefractor
+
+-change div class=header to 
+header tag
+
+-place closing header tag
+
+-change div to nav under body and complete the tag
+
+-change div tag for class=content to section
+
+-change tag for id=search engine-engine optimization from div to article.
+
+-on that same line, add a second class named "searchEngineProduct" and close article tag
+
+-add class searchEngineProduct to id online-reputation-management
+
+-change next div tag also to article and close article where closing div was
+
+-on line with id=social-media-marketing, change class name to searchEngineProduct
+
+-change next div tag also to artical and close tag
+
+-on article id=social-media-marketing line change the class name from social-media-marketing to searchEngineProduct
+
+-change class=benefit-lead to benefitsTag
+
+-add alt class to line with img src .assets/images/lead-generation.png at end of quotes as alt="lead generation" and close img
+
+-change class from benefit-brand to benefitsTag
+
+-add alt class brand-awareness to src="./assets/images/brand-awareness.png"
+
+-change class benefit-cost to benefitsTag
+
+-add alt class "cost management to src="./assets/images/cost-management.png"
+
+-remove start of div class from class=footer to just footer> tag and close footer tag where closing div was
 
 
-change font family to Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif 
-on every line applicable
-
-add alt tags to -alt="lead generation"
-                    -alt="brand-awareness"
-                    -alt="cost-management"
-                    
-
-![image](https://github.com/charliem61/code-refractor/blob/main/Screen%20Shot%202021-11-02%20at%2011.35.11%20PM.png?raw=true)
+ ![image](https://github.com/charliem61/code-refractor/blob/main/Screen%20Shot%202021-11-02%20at%2011.35.11%20PM.png?raw=true)
