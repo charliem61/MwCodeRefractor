@@ -1,7 +1,7 @@
 # code-refractor
 
 Public Repo Link:
-```charliem61.github.io/code-refractor/```
+```https://github.com/charliem61/MwCodeRefractor```
 
 style.css  
 
